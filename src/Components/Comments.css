@@ -1,0 +1,77 @@
+.frame-child1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    width: 378px;
+    height: 310px;
+  }
+  .ellipse-icon {
+    top: 29px;
+    left: 37px;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+  }
+  .ellipse-icon,
+  .gamer,
+  .jin {
+    position: absolute;
+  }
+  .jin {
+    top: 33px;
+    left: 118px;
+    font-weight: 600;
+    font-family: var(--font-montserrat);
+  }
+  .gamer {
+    top: 66px;
+    left: 119px;
+    color: var(--color-dimgray-100);
+  }
+  .vector-icon6 {
+    position: relative;
+    width: 13px;
+    height: 13px;
+  }
+  .vector-group {
+    position: absolute;
+    top: 40px;
+    left: 265px;
+    width: 81px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+  }
+  .rectangle-icon {
+    position: absolute;
+    top: 152px;
+    left: 36px;
+    border-radius: var(--br-3xs);
+    width: 313px;
+    height: 119px;
+  }
+  .para {
+    position: absolute;
+    top: 160px;
+    left: 48px;
+    font-size: var(--font-size-base);
+    line-height: 20px;
+    display: inline-block;
+    width: 283px;
+    height: 103px;
+  }
+  .rectangle-parent {
+    position: relative;
+    width: 378px;
+    height: 310px;
+    text-align: left;
+    font-size: var(--font-size-lg);
+    color: var(--color-black);
+    font-family: var(--font-josefin-sans);
+  }
+  

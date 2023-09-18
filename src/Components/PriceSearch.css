@@ -1,0 +1,129 @@
+.ant-designhome-filled-icon {
+    position: absolute;
+    top: 106px;
+    left: 535px;
+    width: 9px;
+    height: 9px;
+    overflow: hidden;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: -4px;
+    left: 0;
+    border-radius: var(--br-mini);
+    background-color: var(--color-white);
+    box-shadow: 0 5px 50px rgba(0, 0, 0, 0.05);
+    width: 1073px;
+    height: 247px;
+  }
+  .search-the-price {
+    position: absolute;
+    top: 51px;
+    left: 52px;
+    font-weight: 600;
+    font-family: var(--font-poppins);
+    color: var(--color-black);
+  }
+  .location {
+    position: relative;
+  }
+  .akar-iconslocation {
+    position: relative;
+    width: 9px;
+    height: 9px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .group-icon1 {
+    position: relative;
+    width: 17.35px;
+    height: 21.25px;
+  }
+  .location-parent {
+    position: absolute;
+    top: 122px;
+    left: 52px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 2px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 228px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-2xl) var(--padding-5xl);
+    align-items: center;
+    justify-content: space-between;
+  }
+  .vector-icon5 {
+    position: relative;
+    width: 17.91px;
+    height: 16.91px;
+  }
+  .type-parent {
+    position: absolute;
+    top: 122px;
+    left: 321px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 2px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 226px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-2xl) var(--padding-5xl);
+    align-items: center;
+    justify-content: space-between;
+  }
+  .emojione-monotoneletter-s-icon {
+    position: relative;
+    width: 23px;
+    height: 23px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .price-parent,
+  .search-now-wrapper {
+    position: absolute;
+    border-radius: var(--br-3xs);
+    height: 62px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    align-items: center;
+  }
+  .price-parent {
+    top: 122px;
+    left: 586px;
+    background-color: var(--color-white);
+    border: 2px solid var(--color-lightgray);
+    width: 220px;
+    padding: var(--padding-2xl) var(--padding-13xl);
+    justify-content: flex-start;
+    gap: var(--gap-79xl);
+  }
+  .search-now-wrapper {
+    top: 120px;
+    left: 845px;
+    background-color: var(--color-black);
+    width: 176px;
+    overflow: hidden;
+    padding: var(--padding-3xs);
+    justify-content: center;
+    cursor: pointer;
+    color: var(--color-white);
+  }
+  .ant-designhome-filled-parent {
+    position: absolute;
+    height: 5.11%;
+    width: 34.14%;
+    top: 14.83%;
+    right: 48.16%;
+    bottom: 80.07%;
+    left: 17.7%;
+    border-radius: var(--br-6xl);
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkgray);
+    font-family: var(--font-josefin-sans);
+  }
+  

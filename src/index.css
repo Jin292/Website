@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-josefin-sans: "Josefin Sans";
+  --font-montserrat: Montserrat;
+  --font-poppins: Poppins;
+  --font-roboto-slab: "Roboto Slab";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-16xl: 35px;
+  --font-size-4xl: 23px;
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-12xl: 31px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-dimgray-100: #6c6c6c;
+  --color-dimgray-200: #6b6b6b;
+  --color-dimgray-300: #565353;
+  --color-black: #000;
+  --color-lightgray: #d6d6d6;
+  --color-darkgray: #989898;
+
+  /* Gaps */
+  --gap-8xl: 27px;
+  --gap-33xl: 52px;
+  --gap-9xs: 4px;
+  --gap-smi: 13px;
+  --gap-79xl: 98px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-2xl: 21px;
+  --padding-13xl: 32px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-2xs: 11px;
+  --br-3xs: 10px;
+  --br-6xl: 25px;
+  --br-mini: 15px;
+}
